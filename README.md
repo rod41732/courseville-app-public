@@ -1,16 +1,13 @@
-# mcv_app
+# MyCourseVille App
 
-A new Flutter project.
+MyCourseVille app optimized
 
-## Getting Started
+## Current Feature
+ - Back Button: Unlike in the website, in this app you can press back!!
+ - News Feed: View recently updated courses items
+ - Todo List: List all assignments for all courses (WIP)
+ - Notification: Get notified when instructor post new material (WIP: this doesn't work correctly on iOS)
+ - Search: search items (files, assignments, announcements) and courses.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Bugs 🐛
+ This app isn't finished yet. expect some (or a lot?) of bugs. Open issue and maybe I will fix it :D
