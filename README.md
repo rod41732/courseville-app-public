@@ -1,6 +1,6 @@
 # MyCourseVille App
 
-MyCourseVille app optimized
+MyCourseVille app with feature for offline viewing course contents.
 
 ## Current Feature
  - Back Button: Unlike in the website, in this app you can press back!!
